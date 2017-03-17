@@ -1653,6 +1653,7 @@ body:not(.post-template) .post-title {
     .page-title {
         font-size: 4rem;
         letter-spacing: -1px;
+        padding-top: 10px;
     }
 
     .page-description {
